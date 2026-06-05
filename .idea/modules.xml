@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DEVELOPMENT.iml" filepath="$PROJECT_DIR$/.idea/DEVELOPMENT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UC 5/UC 5.iml" filepath="$PROJECT_DIR$/UC 5/UC 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UC 6/UC 6.iml" filepath="$PROJECT_DIR$/UC 6/UC 6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UC1/UC1.iml" filepath="$PROJECT_DIR$/UC1/UC1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UC2/UC2.iml" filepath="$PROJECT_DIR$/UC2/UC2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UC3/UC3.iml" filepath="$PROJECT_DIR$/UC3/UC3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UC4/UC4.iml" filepath="$PROJECT_DIR$/UC4/UC4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UC7/UC7.iml" filepath="$PROJECT_DIR$/UC7/UC7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UC8/UC8.iml" filepath="$PROJECT_DIR$/UC8/UC8.iml" />
+    </modules>
+  </component>
+</project>
